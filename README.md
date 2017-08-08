@@ -2,5 +2,5 @@
 
 Hello World!
 
-Unicorns are real, I know about 200 of them.
-Also, they gallop across rainbows, that is all.
+Unicorns are real, I know about 200 of them -- aka my dphie sisters.
+I'm also a computer science student!
